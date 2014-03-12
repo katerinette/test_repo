@@ -2,6 +2,7 @@
 
 <head>
 some bugs
+this code is ok
 </head>
 
 <body>
